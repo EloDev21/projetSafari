@@ -1,0 +1,18 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card {
+  margin-top: 20px;
+  padding: 0;
+ 
+  background-color: #c9c0ba;
+  background-size: 53px 53px;
+  background-image: radial-gradient(
+    transparent 28px,
+    #ffffff 28px,
+    #ffffff 32px,
+    transparent 32px
+  );
+} */
